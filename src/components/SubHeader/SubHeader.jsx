@@ -1,6 +1,6 @@
 import React from 'react'
 import './SubHeader.scss'
-import logo from './../../image/logo.svg'
+import logo from '../../assets/image/logo.svg'
 
 const SubHeader = () => {
   return (

@@ -1,12 +1,11 @@
 import React from 'react'
 import './Promo.scss'
-import premium from '../../image/premium.jpg'
-import sport from '../../image/sport.jpg'
-import beach from '../../image/beach.jpg'
-import beach2 from '../../image/beach2.jpg'
-import umbrella from '../../image/umbrella.jpg'
-import sneakers from '../../image/sneakers.jpg'
-import child from '../../image/child.jpg'
+import premium from '../../assets/image/premium.jpg'
+import sport from '../../assets/image/sport.jpg'
+import beach from '../../assets/image/beach.jpg'
+import umbrella from '../../assets/image/umbrella.jpg'
+import sneakers from '../../assets/image/sneakers.jpg'
+import child from '../../assets/image/child.jpg'
 
 const Promo = () => {
   return (

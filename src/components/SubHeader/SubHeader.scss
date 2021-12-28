@@ -1,4 +1,4 @@
-@use './../global.scss';
+@use '../../assets/styles/global.scss';
 $height-subheader: 90px;
 
 .subheader {
@@ -38,7 +38,7 @@ $height-subheader: 90px;
     display: block;
     justify-self: end;
     background-color: transparent;
-    background-image: url('../../image/cart.svg');
+    background-image: url('../../assets/image/cart.svg');
     background-repeat: no-repeat;
     background-position: left;
     padding-left: 28px;

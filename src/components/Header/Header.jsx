@@ -1,6 +1,6 @@
 import React from 'react'
 import './Header.scss'
-import img35 from './../../image/35.svg'
+import img35 from '../../assets/image/35.svg'
 
 const Header = () => {
   return (

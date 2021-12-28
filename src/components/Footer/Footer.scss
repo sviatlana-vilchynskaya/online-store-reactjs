@@ -1,4 +1,4 @@
-@use './../global.scss';
+@use '../../assets/styles/global.scss';
 
 .footer {
   padding: 25px 0;
@@ -56,30 +56,30 @@
   }
 
   &__social-item_fb {
-    background-image: url(../../image/facebook.svg);
+    background-image: url(../../assets/image/facebook.svg);
     &:hover {
-      background-image: url(../../image/facebook_hover.svg);
+      background-image: url(../../assets/image/facebook_hover.svg);
     }
   }
 
   &__social-item_vk {
-    background-image: url(../../image/vk.svg);
+    background-image: url(../../assets/image/vk.svg);
     &:hover {
-      background-image: url(../../image/vk_hover.svg);
+      background-image: url(../../assets/image/vk_hover.svg);
     }
   }
 
   &__social-item_yt {
-    background-image: url(../../image/youtube.svg);
+    background-image: url(../../assets/image/youtube.svg);
     &:hover {
-      background-image: url(../../image/youtube_hover.svg);
+      background-image: url(../../assets/image/youtube_hover.svg);
     }
   }
 
   &__social-item_ig {
-    background-image: url(../../image/instagram.svg);
+    background-image: url(../../assets/image/instagram.svg);
     &:hover {
-      background-image: url(../../image/instagram_hover.svg);
+      background-image: url(../../assets/image/instagram_hover.svg);
     }
   }
 
@@ -93,19 +93,19 @@
   &__icon-mastercard {
     width: 43px;
     height: 28px;
-    background-image: url(../../image/footer__icon-mastercard.svg);
+    background-image: url(../../assets/image/footer__icon-mastercard.svg);
   }
 
   &__icon-visa {
     width: 49px;
     height: 16px;
-    background-image: url(../../image/footer__icon-visa.svg);
+    background-image: url(../../assets/image/footer__icon-visa.svg);
   }
 
   &__icon-mir {
     width: 57px;
     height: 16px;
-    background-image: url(../../image/footer__icon-mir.svg);
+    background-image: url(../../assets/image/footer__icon-mir.svg);
   }
 
   &__block-icon {
@@ -118,14 +118,14 @@
   }
 
   &__icon-appstore {
-    background-image: url(../../image/footer__icon-appstore.svg);
+    background-image: url(../../assets/image/footer__icon-appstore.svg);
   }
 
   &__icon-googleplay {
-    background-image: url(../../image/footer__icon-googleplay.svg);
+    background-image: url(../../assets/image/footer__icon-googleplay.svg);
   }
 
   &__icon-huaweistore {
-    background-image: url(../../image/footer__icon-huaweistore.svg);
+    background-image: url(../../assets/image/footer__icon-huaweistore.svg);
   }
 }
